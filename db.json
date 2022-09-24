@@ -53,6 +53,21 @@
       "name": "I guess",
       "email": "it@works.com",
       "id": 2
+    },
+    {
+      "name": "It Works!",
+      "email": "itreally@works.com",
+      "id": 3
+    },
+    {
+      "name": "Lotsa Users",
+      "email": "lots@users.com",
+      "id": 4
+    },
+    {
+      "name": "Big Ups",
+      "email": "dork@wad.com",
+      "id": 5
     }
   ],
   "robots": [
